@@ -1,0 +1,7 @@
+downloaded/
+.DS_Store
+.classpath
+.project
+.settings
+bin/
+target/
